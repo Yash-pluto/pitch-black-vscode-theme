@@ -4,6 +4,10 @@
   "description": "A true Pitch Black theme for maximum contrast.",
   "version": "0.0.1",
   "publisher": "yash-pluto",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yash-pluto/pitch-black-vscode-theme.git"
+  },
   "engines": {
     "vscode": "^1.120.0"
   },
