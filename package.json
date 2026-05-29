@@ -1,0 +1,22 @@
+{
+  "name": "pitch-black",
+  "displayName": "pitch-black",
+  "description": "A true Pitch Black theme for maximum contrast.",
+  "version": "0.0.1",
+  "publisher": "yash-pluto",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pitch Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pitch Black-color-theme.json"
+      }
+    ]
+  }
+}

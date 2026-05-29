@@ -1,0 +1,54 @@
+{
+  "name": "Pitch Black",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#000000",
+    "sideBar.background": "#000000",
+    "activityBar.background": "#000000",
+    "titleBar.activeBackground": "#000000",
+    "titleBar.inactiveBackground": "#000000",
+    "statusBar.background": "#000000",
+    "statusBar.noFolderBackground": "#000000",
+    "terminal.background": "#000000",
+    "panel.background": "#000000",
+
+    "editorGroupHeader.tabsBackground": "#000000",
+    "editorGroupHeader.noTabsBackground": "#000000",
+    "tab.activeBackground": "#000000",
+    "tab.inactiveBackground": "#000000",
+    "tab.unfocusedActiveBackground": "#000000",
+    "tab.unfocusedInactiveBackground": "#000000",
+    "tab.border": "#000000",
+    "tab.activeBorder": "#000000",
+    "breadcrumb.background": "#000000",
+    "editorGroup.border": "#000000"
+  },
+  "tokenColors": [
+    {
+      "name": "Keywords and Storage",
+      "scope": ["keyword", "storage"],
+      "settings": {
+        "foreground": "#4A90E2",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Variables",
+      "scope": ["variable", "variable.other", "variable.language"],
+      "settings": {
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "name": "Functions",
+      "scope": [
+        "entity.name.function",
+        "support.function",
+        "meta.function-call"
+      ],
+      "settings": {
+        "foreground": "#FFD700"
+      }
+    }
+  ]
+}
