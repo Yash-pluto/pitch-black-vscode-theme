@@ -1,10 +1,11 @@
 {
   "name": "pitch-black",
-  "displayName": "pitch-black",
+  "displayName": "Pitch Black",
   "description": "A true Pitch Black theme for maximum contrast.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "yash-pluto",
   "license": "MIT",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/yash-pluto/pitch-black-vscode-theme.git"

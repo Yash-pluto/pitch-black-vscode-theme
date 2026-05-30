@@ -21,33 +21,81 @@
     "tab.border": "#000000",
     "tab.activeBorder": "#000000",
     "breadcrumb.background": "#000000",
-    "editorGroup.border": "#000000"
+    "editorGroup.border": "#000000",
+
+    "editor.foreground": "#E2E8F0",
+    "editorCursor.foreground": "#38BDF8",
+    "editorLineNumber.foreground": "#333333",
+    "editorLineNumber.activeForeground": "#94A3B8",
+    "editor.selectionBackground": "#1E293B",
+    "editor.lineHighlightBackground": "#0A0A0A"
   },
   "tokenColors": [
     {
-      "name": "Keywords and Storage",
-      "scope": ["keyword", "storage"],
+      "name": "Comments",
+      "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#4A90E2",
+        "foreground": "#52525B",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Keywords, Storage, and Control",
+      "scope": ["keyword", "storage", "control", "conditional"],
+      "settings": {
+        "foreground": "#C678DD",
         "fontStyle": "bold"
       }
     },
     {
-      "name": "Variables",
-      "scope": ["variable", "variable.other", "variable.language"],
+      "name": "Variables and Parameters",
+      "scope": [
+        "variable",
+        "variable.other",
+        "variable.language",
+        "variable.parameter"
+      ],
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#E2E8F0"
       }
     },
     {
-      "name": "Functions",
+      "name": "Functions and Methods",
       "scope": [
         "entity.name.function",
         "support.function",
         "meta.function-call"
       ],
       "settings": {
-        "foreground": "#FFD700"
+        "foreground": "#38BDF8"
+      }
+    },
+    {
+      "name": "Strings",
+      "scope": ["string", "punctuation.definition.string"],
+      "settings": {
+        "foreground": "#34D399"
+      }
+    },
+    {
+      "name": "Numbers and Booleans",
+      "scope": ["constant.numeric", "constant.language.boolean"],
+      "settings": {
+        "foreground": "#FBBF24"
+      }
+    },
+    {
+      "name": "Classes and Types",
+      "scope": ["entity.name.type", "entity.name.class", "support.type"],
+      "settings": {
+        "foreground": "#F472B6"
+      }
+    },
+    {
+      "name": "Operators and Punctuation",
+      "scope": ["keyword.operator", "punctuation"],
+      "settings": {
+        "foreground": "#94A3B8"
       }
     }
   ]

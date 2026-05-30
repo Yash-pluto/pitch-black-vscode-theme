@@ -8,14 +8,17 @@ Designed for developers who love absolute high contrast and deep blacks. This th
 
 - **True Black Canvas:** Absolute `#000000` across the editor, terminal, and activity bars.
 - **Seamless UI:** Tabs, breadcrumbs, and borders are completely blacked out for a distraction-free environment.
-- **High-Contrast Syntax:** Bright white variables, bold blue keywords, and golden yellow functions to make your code pop.
+- **Modern High-Contrast Syntax:** Crisp slate text, neon amethyst keywords, sky blue functions, and emerald strings to make your code pop while reducing eye strain.
 
 ## 🚀 Installation
 
-1. Open the **Extensions** view in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X`).
-2. Search for `Pitch Black`.
-3. Click **Install**.
-4. Go to **Settings > Color Theme** (`Ctrl+K Ctrl+T`) and select **Pitch Black**.
+This extension is not currently on the VS Code Marketplace. You can easily install it directly from the `.vsix` file:
+
+1. Download the latest `.vsix` file from the **Releases** section of this GitHub repository.
+2. Open Visual Studio Code.
+3. Open the **Extensions** view (`Ctrl+Shift+X` on Windows/Linux or `Cmd+Shift+X` on macOS).
+4. **Drag and drop** the downloaded `.vsix` file directly into the Extensions sidebar panel to install it.
+5. Once installed, go to **Settings > Color Theme** (`Ctrl+K Ctrl+T` or `Cmd+K Cmd+T`) and select **Pitch Black Modern**.
 
 ## 👨‍💻 Author
 
@@ -23,3 +26,4 @@ Built by **Yash Vardhan**.
 
 - **Portfolio:** [yash-pluto.vercel.app](https://yash-pluto.vercel.app)
 - **GitHub:** [@yash-pluto](https://github.com/yash-pluto)
+- **LinkedIn:** [Yash Vardhan](https://linkedin.com/in/vardhan-yash3105)
