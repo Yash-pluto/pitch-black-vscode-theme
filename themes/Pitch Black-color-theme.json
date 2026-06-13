@@ -11,7 +11,6 @@
     "statusBar.noFolderBackground": "#000000",
     "terminal.background": "#000000",
     "panel.background": "#000000",
-
     "editorGroupHeader.tabsBackground": "#000000",
     "editorGroupHeader.noTabsBackground": "#000000",
     "tab.activeBackground": "#000000",
@@ -22,7 +21,6 @@
     "tab.activeBorder": "#000000",
     "breadcrumb.background": "#000000",
     "editorGroup.border": "#000000",
-
     "editor.foreground": "#E2E8F0",
     "editorCursor.foreground": "#38BDF8",
     "editorLineNumber.foreground": "#333333",
@@ -96,6 +94,43 @@
       "scope": ["keyword.operator", "punctuation"],
       "settings": {
         "foreground": "#94A3B8"
+      }
+    },
+    {
+      "name": "HTML/JSX/XML Tags",
+      "scope": ["entity.name.tag", "meta.tag.sgml"],
+      "settings": {
+        "foreground": "#F87171"
+      }
+    },
+    {
+      "name": "HTML/JSX/XML Attributes",
+      "scope": ["entity.other.attribute-name"],
+      "settings": {
+        "foreground": "#FCD34D",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Tag Brackets",
+      "scope": ["punctuation.definition.tag"],
+      "settings": {
+        "foreground": "#64748B"
+      }
+    },
+    {
+      "name": "React Custom Components",
+      "scope": ["support.class.component"],
+      "settings": {
+        "foreground": "#38BDF8",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "CSS/SCSS Properties",
+      "scope": ["support.type.property-name", "meta.property-name"],
+      "settings": {
+        "foreground": "#38BDF8"
       }
     }
   ]
