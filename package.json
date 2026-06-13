@@ -2,7 +2,7 @@
   "name": "pitch-black-modern",
   "displayName": "Pitch Black Modern by Yash-Pluto",
   "description": "A true pitch-black, zero-distraction VS Code theme. OLED-friendly with high-contrast syntax highlighting for HTML, JSX, CSS, and TypeScript.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "yash-pluto",
   "license": "MIT",
   "icon": "images/icon.png",
