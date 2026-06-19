@@ -1,9 +1,13 @@
 {
   "name": "pitch-black-modern",
-  "displayName": "Pitch Black Modern by Yash-Pluto",
-  "description": "A true pitch-black, zero-distraction VS Code theme. OLED-friendly with high-contrast syntax highlighting for HTML, JSX, CSS, and TypeScript.",
-  "version": "1.0.0",
+  "displayName": "Pitch Black Modern",
+  "description": "An ultra-premium, pure OLED black theme (#000000) for zero-distraction coding. Features legendary One Dark Pro syntax highlighting.",
+  "version": "1.0.1",
   "publisher": "yash-pluto",
+  "author": {
+    "name": "Yash Vardhan"
+  },
+  "pricing": "Free",
   "license": "MIT",
   "icon": "images/icon.png",
   "galleryBanner": {
@@ -12,20 +16,22 @@
   },
   "keywords": [
     "dark",
-    "black",
     "oled",
-    "theme",
     "pitch-black",
+    "one-dark",
     "high-contrast",
-    "typescript",
     "react",
-    "nextjs",
-    "late-night"
+    "typescript"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/yash-pluto/pitch-black-vscode-theme.git"
   },
+  "homepage": "https://github.com/yash-pluto/pitch-black-vscode-theme",
+  "bugs": {
+    "url": "https://github.com/yash-pluto/pitch-black-vscode-theme/issues"
+  },
+  "qna": false,
   "engines": {
     "vscode": "^1.120.0"
   },
@@ -35,7 +41,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Pitch Black",
+        "label": "Pitch Black Modern",
         "uiTheme": "vs-dark",
         "path": "./themes/Pitch Black-color-theme.json"
       }
