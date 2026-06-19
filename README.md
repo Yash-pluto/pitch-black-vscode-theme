@@ -6,7 +6,7 @@
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/)
 [![OLED Friendly](https://img.shields.io/badge/OLED_Friendly-38BDF8?style=for-the-badge)](https://github.com/yash-pluto)
-[![Version](https://img.shields.io/badge/Version-1.0.3-FF79C6?style=for-the-badge)](https://github.com/yash-pluto)
+[![Version](https://img.shields.io/badge/Version-1.0.4-FF79C6?style=for-the-badge)](https://github.com/yash-pluto)
 
 </div>
 
