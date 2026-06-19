@@ -6,7 +6,7 @@
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/)
 [![OLED Friendly](https://img.shields.io/badge/OLED_Friendly-38BDF8?style=for-the-badge)](https://github.com/yash-pluto)
-[![Version](https://img.shields.io/badge/Version-1.0.1-CE9178?style=for-the-badge)](https://github.com/yash-pluto)
+[![Version](https://img.shields.io/badge/Version-1.0.2-FF79C6?style=for-the-badge)](https://github.com/yash-pluto)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 Designed for developers who demand absolute high contrast and deep blacks. **Pitch Black Modern** eliminates UI clutter, blending the tab bar, sidebars, and editor into a seamless `#000000` canvas while keeping your code crisp and highly legible.
 
-Heavily optimized for modern web development, this theme merges a pure OLED background with the legendary **One Dark Pro** syntax engine. It ensures beautiful, battle-tested highlighting whether you are working with standard HTML/CSS or building complex interfaces with React, Next.js, Python, or Rust. Perfect for late-night, zero-distraction coding sessions.
+Heavily optimized for modern web development, this theme merges a pure OLED background with a **custom, vibrant neon and pastel** syntax engine. It ensures beautiful, eye-popping highlighting with zero muddy reds or oranges, whether you are working with standard HTML/CSS or building complex interfaces with React, Next.js, or Node. Perfect for OLED displays and late-night, zero-distraction coding sessions.
 
 ## 🖼️ Preview
 
@@ -27,12 +27,13 @@ Heavily optimized for modern web development, this theme merges a pure OLED back
 
 - **True Black Canvas:** Absolute `#000000` across the editor, terminal, activity bars, and panels.
 - **Seamless UI:** Tabs, breadcrumbs, and editor borders are completely blacked out for a unified, distraction-free environment.
-- **Legendary Syntax Highlighting:** Powered by the industry-standard **One Dark Pro** color palette.
-  - 🧊 **Standard Text:** Crisp slate for superb readability.
-  - 💧 **Functions & Methods:** Iconic One Dark blue (`#61AFEF`).
-  - 🍂 **Strings & Attributes:** Highly legible, warm green (`#98C379`) and gold (`#D19A66`).
-  - ⚡ **Control Flow:** Vibrant magenta (`#C678DD`) for keywords and control statements.
-  - 🧠 **Semantic Highlighting:** Full support for advanced, context-aware token coloring in modern languages.
+- **Vibrant Neon Syntax Highlighting:** Carefully tuned to pop against the pitch-black background.
+  - 🌸 **Keywords & Control Flow:** Punchy Cyber-Pink (`#FF79C6`).
+  - 💎 **Classes & Types:** Striking Turquoise (`#4EC9B0`).
+  - 🍋 **Strings:** Soft Pastel Yellow (`#F1FA8C`) — absolutely no muddy oranges.
+  - 🌿 **Keys & Comments:** Mint Green (`#4ADE80`) object keys and bright Neon Green (`#A6E22E`) comments.
+  - 💧 **Functions & Variables:** Vibrant Cyan (`#61AFEF`) and crisp Light Blue (`#38BDF8`).
+- 🌈 **Dynamic Bracket Pairs:** Native support for VS Code's bracket pair colorization, cycling perfectly through Yellow, Pink, Turquoise, Purple, and Green to make nested logic incredibly easy to read.
 
 ## 🚀 Installation
 

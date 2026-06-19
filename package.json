@@ -1,8 +1,8 @@
 {
   "name": "pitch-black-modern",
   "displayName": "Pitch Black Modern",
-  "description": "An ultra-premium, pure OLED black theme (#000000) for zero-distraction coding. Features legendary One Dark Pro syntax highlighting.",
-  "version": "1.0.1",
+  "description": "An ultra-premium, pure OLED black theme (#000000) for zero-distraction coding. Features vibrant, high-contrast neon and pastel syntax highlighting tailored for modern web development.",
+  "version": "1.0.2",
   "publisher": "yash-pluto",
   "author": {
     "name": "Yash Vardhan"
@@ -18,7 +18,7 @@
     "dark",
     "oled",
     "pitch-black",
-    "one-dark",
+    "neon",
     "high-contrast",
     "react",
     "typescript"

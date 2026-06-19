@@ -6,6 +6,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ---
 
+## [1.0.2] - 2026-06-20
+
+### Added
+
+- **Dynamic Bracket Pairs:** Integrated VS Code's native bracket pair colorization. Brackets now dynamically cycle through Yellow (`#FBBF24`), Pink (`#FF79C6`), Turquoise (`#4EC9B0`), Purple (`#BD93F9`), and Green (`#A6E22E`) for perfect nested readability.
+
+### Changed
+
+- **Syntax Revert & Overhaul:** Scrapped the One Dark Pro syntax engine. Reverted to a custom, highly vibrant neon and pastel color palette that pops beautifully against the `#000000` canvas.
+- **Semantic Highlighting:** Disabled (`"semanticHighlighting": false`) to ensure custom TextMate rules take full priority without interference.
+- **Color Palette Updates:**
+  - **Strings:** Completely removed muddy oranges and reds, replacing them with a clean Soft Pastel Yellow (`#F1FA8C`).
+  - **Comments:** Shifted to a bright Neon Green (`#A6E22E`).
+  - **Keywords & Control Flow:** Updated to a punchy Cyber-Pink (`#FF79C6`).
+  - **Classes & Types:** Highlighted in Turquoise (`#4EC9B0`).
+  - **Object Keys:** Popping in Mint Green (`#4ADE80`).
+  - **Variables & Modifiers:** Crisp Light Blue (`#38BDF8`).
+
+---
+
 ## [1.0.1] - 2026-06-19
 
 ### Added
