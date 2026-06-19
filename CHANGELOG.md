@@ -6,6 +6,21 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ---
 
+## [1.0.3] - 2026-06-20
+
+### Changed
+
+- **String Refinement:** Shifted string colors to a soothing Mint Green (`#86EFAC`) to balance perfectly with the high-contrast syntax.
+- **Operator & Punctuation Split:** Separated structural punctuation from logical operators for better visual code flow.
+  - **Operators:** Now pop in vibrant Cyber-Pink (`#FF79C6`) to make logic (`=`, `=>`, `&&`) stand out.
+  - **Punctuation:** Commas, periods, and semicolons now use a subtle Slate Gray (`#64748B`) to reduce visual clutter against the black canvas.
+
+### Fixed
+
+- **Settings Restoration:** Ensured `"semanticHighlighting": false` and dynamic bracket colorization were properly packaged in the final build payload.
+
+---
+
 ## [1.0.2] - 2026-06-20
 
 ### Added

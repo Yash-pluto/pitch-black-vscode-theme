@@ -6,7 +6,7 @@
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/)
 [![OLED Friendly](https://img.shields.io/badge/OLED_Friendly-38BDF8?style=for-the-badge)](https://github.com/yash-pluto)
-[![Version](https://img.shields.io/badge/Version-1.0.2-FF79C6?style=for-the-badge)](https://github.com/yash-pluto)
+[![Version](https://img.shields.io/badge/Version-1.0.3-FF79C6?style=for-the-badge)](https://github.com/yash-pluto)
 
 </div>
 
@@ -30,9 +30,10 @@ Heavily optimized for modern web development, this theme merges a pure OLED back
 - **Vibrant Neon Syntax Highlighting:** Carefully tuned to pop against the pitch-black background.
   - 🌸 **Keywords & Control Flow:** Punchy Cyber-Pink (`#FF79C6`).
   - 💎 **Classes & Types:** Striking Turquoise (`#4EC9B0`).
-  - 🍋 **Strings:** Soft Pastel Yellow (`#F1FA8C`) — absolutely no muddy oranges.
-  - 🌿 **Keys & Comments:** Mint Green (`#4ADE80`) object keys and bright Neon Green (`#A6E22E`) comments.
-  - 💧 **Functions & Variables:** Vibrant Cyan (`#61AFEF`) and crisp Light Blue (`#38BDF8`).
+  - 🍃 **Strings:** Soothing Mint Green (`#86EFAC`) — perfectly balanced and easy on the eyes.
+  - ⚡ **Operators & Punctuation:** Logical operators (`=>`, `&&`) pop in Cyber-Pink (`#FF79C6`), while structural commas and semicolons fade into a subtle Slate Gray (`#64748B`) to reduce visual clutter.
+  - 🌿 **Keys & Comments:** Vibrant Mint Green (`#4ADE80`) object keys and bright Neon Green (`#A6E22E`) comments.
+  - 💧 **Functions & Variables:** Crisp Marine Cyan (`#0EA5E9`) and bright Light Blue (`#9CDCFE`).
 - 🌈 **Dynamic Bracket Pairs:** Native support for VS Code's bracket pair colorization, cycling perfectly through Yellow, Pink, Turquoise, Purple, and Green to make nested logic incredibly easy to read.
 
 ## 🚀 Installation
