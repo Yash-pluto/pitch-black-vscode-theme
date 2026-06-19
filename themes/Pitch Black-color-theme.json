@@ -1,7 +1,6 @@
 {
   "name": "Pitch Black",
   "type": "dark",
-  "semanticHighlighting": false,
   "colors": {
     "editor.background": "#000000",
     "sideBar.background": "#000000",
@@ -27,15 +26,7 @@
     "editorLineNumber.foreground": "#333333",
     "editorLineNumber.activeForeground": "#94A3B8",
     "editor.selectionBackground": "#1E293B",
-    "editor.lineHighlightBackground": "#0A0A0A",
-
-    "editorBracketHighlight.foreground1": "#FBBF24",
-    "editorBracketHighlight.foreground2": "#FF79C6",
-    "editorBracketHighlight.foreground3": "#4EC9B0",
-    "editorBracketHighlight.foreground4": "#BD93F9",
-    "editorBracketHighlight.foreground5": "#A6E22E",
-    "editorBracketHighlight.foreground6": "#38BDF8",
-    "editorBracketHighlight.unexpectedBracket.foreground": "#FF0000"
+    "editor.lineHighlightBackground": "#0A0A0A"
   },
   "tokenColors": [
     {
@@ -63,7 +54,7 @@
         "variable.parameter"
       ],
       "settings": {
-        "foreground": "#9CDCFE"
+        "foreground": "#E2E8F0"
       }
     },
     {
@@ -74,14 +65,14 @@
         "meta.function-call"
       ],
       "settings": {
-        "foreground": "#0EA5E9"
+        "foreground": "#38BDF8"
       }
     },
     {
       "name": "Strings",
       "scope": ["string", "punctuation.definition.string"],
       "settings": {
-        "foreground": "#86EFAC"
+        "foreground": "#CE9178"
       }
     },
     {
@@ -99,17 +90,10 @@
       }
     },
     {
-      "name": "Operators",
-      "scope": ["keyword.operator"],
+      "name": "Operators and Punctuation",
+      "scope": ["keyword.operator", "punctuation"],
       "settings": {
-        "foreground": "#FF79C6"
-      }
-    },
-    {
-      "name": "Punctuation",
-      "scope": ["punctuation", "punctuation.separator"],
-      "settings": {
-        "foreground": "#64748B"
+        "foreground": "#94A3B8"
       }
     },
     {

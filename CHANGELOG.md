@@ -6,6 +6,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ---
 
+## [1.0.4] - 2026-06-20
+
+### Changed
+
+- **Syntax Palette Overhaul:** Completely rebalanced the syntax colors to prioritize readability on the `#000000` OLED canvas.
+- **Color Assignments:**
+  - **Keywords & Control:** Updated to `#C678DD` (Purple/Magenta) for high-impact logic visualization.
+  - **Strings:** Set to `#CE9178` (Soft Orange) for distinct differentiation from standard text.
+  - **Functions & Components:** Locked to `#38BDF8` (Sky Blue) to highlight execution blocks.
+  - **Operators & Punctuation:** Grouped under `#94A3B8` (Slate) to minimize visual noise.
+  - **Variables:** Set to `#E2E8F0` (Off-White) to maintain natural text flow.
+- **UI Consistency:** Forced all background elements (Sidebars, Terminal, Tabs, Status Bar) to an absolute `#000000` to ensure zero light bleed.
+
+### Fixed
+
+- **Token Leakage:** Refined `tokenColors` scope definitions to prevent interference from default VS Code syntax rules.
+- **UI Contrast:** Adjusted `editorLineNumber.activeForeground` to `#94A3B8` for better visibility without distraction.
+
+---
+
 ## [1.0.3] - 2026-06-20
 
 ### Changed
