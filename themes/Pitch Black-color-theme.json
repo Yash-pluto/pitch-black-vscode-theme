@@ -2,7 +2,6 @@
   "name": "Pitch Black",
   "type": "dark",
   "colors": {
-    // Editor
     "editor.background": "#101010",
     "editor.foreground": "#FFF",
     "editor.selectionBackground": "#FFFFFF25",
