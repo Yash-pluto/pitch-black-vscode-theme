@@ -1,8 +1,8 @@
 {
   "name": "pitch-black-modern",
   "displayName": "Pitch Black Modern",
-  "description": "An ultra-premium, pure OLED black theme (#000000) for zero-distraction coding. Features vibrant, high-contrast neon and pastel syntax highlighting tailored for modern web development.",
-  "version": "1.0.4",
+  "description": "A minimalist, zero-distraction dark theme (#101010) designed to reduce visual fatigue. Features a unified UI canvas paired with a refined syntax highlighting palette.",
+  "version": "2.0.0",
   "publisher": "yash-pluto",
   "author": {
     "name": "Yash Vardhan"
@@ -11,17 +11,17 @@
   "license": "MIT",
   "icon": "images/icon.png",
   "galleryBanner": {
-    "color": "#000000",
+    "color": "#101010",
     "theme": "dark"
   },
   "keywords": [
-    "dark",
-    "oled",
-    "pitch-black",
-    "neon",
-    "high-contrast",
+    "theme",
+    "dark theme",
+    "minimalist",
+    "javascript",
+    "typescript",
     "react",
-    "typescript"
+    "node"
   ],
   "repository": {
     "type": "git",

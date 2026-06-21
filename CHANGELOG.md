@@ -1,8 +1,23 @@
-# Changelog 📝
+# Changelog
 
-All notable changes to the **Pitch Black Modern** extension will be documented in this file.
+All notable changes to the **Pitch Black** extension will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+---
+
+## [2.0.0] - 2026-06-22
+
+### Changed
+
+- **UI Background Palette:** Transitioned the core UI canvas (Editor, Sidebars, Activity Bar, Terminal) from absolute black (`#000000`) to a unified deep gray (`#101010`) to reduce eye strain while maintaining a zero-distraction environment. _(Credit to `fvn6` on Discord for the suggestion)._
+- **Documentation & Branding:** Renamed the extension from "Pitch Black Modern" to "Pitch Black". Completely revamped the README to remove excessive emojis and adopt a strictly professional, technical documentation style. _(Credit to `mae0` on Discord for the suggestion)._
+- **Syntax Palette Overhaul:** Rebuilt the token color palette to perfectly complement the new `#101010` background:
+  - **Functions, Classes & Tags:** Vibrant Lilac (`#C699FF`).
+  - **Strings & Symbols:** Electric Cyan (`#99FFE4`).
+  - **Keywords & Operators:** Slate Gray (`#A0A0A0`).
+  - **Errors & Invalid Syntax:** Magenta (`#E580FF`).
+  - **Comments:** Muted Gray (`#8B8B8B`).
 
 ---
 
