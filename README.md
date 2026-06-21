@@ -1,12 +1,7 @@
 <div align="center">
-  <img src="images/pitch-black-modern-tab.png" alt="Pitch Black Full UI" width="91%">
+  <img src="images/pitch-black-modern-tab.png" alt="Pitch Black Full UI">
 
-<br><br>
-
-<img src="images/pitch-black-ts.png" alt="TypeScript Preview" width="45%">
-  <img src="images/pitch-black-py.png" alt="Python Preview" width="45%">
-
-# **PITCH BLACK**
+# PITCH BLACK
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-101010?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/)
 [![Theme](https://img.shields.io/badge/Dark_Theme-C699FF?style=for-the-badge)](https://github.com/yash-pluto)
