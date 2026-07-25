@@ -18,8 +18,8 @@ Pitch Black uses a unified `#101010` background to reduce eye strain, paired wit
 
 ## Features
 
-- **Unified interface** — a consistent `#101010` background across the editor, terminal, activity bar, and sidebars.
-- **Subtle UI accents** — active tabs and elements highlighted in soft Lilac (`#C699FF`), while inactive elements blend into the background.
+- **Unified interface** - a consistent `#101010` background across the editor, terminal, activity bar, and sidebars.
+- **Subtle UI accents** - active tabs and elements highlighted in soft Lilac (`#C699FF`), while inactive elements blend into the background.
 - **Clean syntax highlighting:**
 
 | Color | Hex | Used for |
